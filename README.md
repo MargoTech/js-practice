@@ -12,24 +12,6 @@ To reinforce core programming concepts and deepen understanding of:
 - React components, hooks & state management
 - Clean, readable, and modular code
 
-## 🗂️ Structure
-
-The repository is organized by topic or project size:
-
-```bash
-js-practice/
-├── js-basics/
-│   ├── variables.js
-│   ├── arrays.js
-│   └── functions.js
-├── dom-practice/
-│   └── todo-dom.js
-├── react-exercises/
-│   ├── useState-counter.jsx
-│   └── form-validation.jsx
-└── README.md
-
-
 ✅ Topics Covered
 🧮 Variables, functions, arrays, loops
 🏗 DOM Events & Element creation
@@ -49,3 +31,22 @@ Created with 💪 by Margarita
 
 GitHub: @MargoTech
 LinkedIn: linkedin.com/in/margarita-bartashevich-48363a275
+
+## 🗂️ Structure
+
+The repository is organized by topic or project size:
+
+```bash
+js-practice/
+├── js-basics/
+│   ├── variables.js
+│   ├── arrays.js
+│   └── functions.js
+├── dom-practice/
+│   └── todo-dom.js
+├── react-exercises/
+│   ├── useState-counter.jsx
+│   └── form-validation.jsx
+└── README.md
+
+
