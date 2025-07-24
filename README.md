@@ -28,3 +28,24 @@ js-practice/
 │   ├── useState-counter.jsx
 │   └── form-validation.jsx
 └── README.md
+
+
+✅ Topics Covered
+🧮 Variables, functions, arrays, loops
+🏗 DOM Events & Element creation
+🕸 Fetch API & JSON
+⚛️ React useState, useEffect, props & lifting state
+🧩 Component reusability & structure
+🔄 Controlled forms and basic validation
+
+📚 Learning Progress
+This repository reflects:
+👩‍💻 My 6+ months of self-study from scratch
+🛠 Daily practice with real examples
+🌱 Continuous improvement in React & JS proficiency
+
+🙋‍♀️ Author
+Created with 💪 by Margarita
+
+GitHub: @MargoTech
+LinkedIn: linkedin.com/in/margarita-bartashevich-48363a275
